@@ -1,6 +1,0 @@
-model_checkpoint_path: "D:\\NLP\\NLP_projects\\text_classification\\cnn_for_sentence_classification\\run\\1541991135.609826\\checkpoints\\model-30000"
-all_model_checkpoint_paths: "D:\\NLP\\NLP_projects\\text_classification\\cnn_for_sentence_classification\\run\\1541991135.609826\\checkpoints\\model-29600"
-all_model_checkpoint_paths: "D:\\NLP\\NLP_projects\\text_classification\\cnn_for_sentence_classification\\run\\1541991135.609826\\checkpoints\\model-29700"
-all_model_checkpoint_paths: "D:\\NLP\\NLP_projects\\text_classification\\cnn_for_sentence_classification\\run\\1541991135.609826\\checkpoints\\model-29800"
-all_model_checkpoint_paths: "D:\\NLP\\NLP_projects\\text_classification\\cnn_for_sentence_classification\\run\\1541991135.609826\\checkpoints\\model-29900"
-all_model_checkpoint_paths: "D:\\NLP\\NLP_projects\\text_classification\\cnn_for_sentence_classification\\run\\1541991135.609826\\checkpoints\\model-30000"
