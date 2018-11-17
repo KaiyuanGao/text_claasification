@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\NLP\\NLP_projects\\text_classification\\cnn_for_sentence_classification\\run\\1541988539.6406631\\checkpoints\\model-100"
+all_model_checkpoint_paths: "D:\\NLP\\NLP_projects\\text_classification\\cnn_for_sentence_classification\\run\\1541988539.6406631\\checkpoints\\model-100"
