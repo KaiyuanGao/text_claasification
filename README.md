@@ -10,3 +10,6 @@ A Repository for one of NLP tasks---test classification, with different implemen
 2. RNN
 - paper:Recurrent Neural Network for Text Classification with Multi-Task Learning
 - blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/84201084
+3. fastText
+- paper:Bag of Tricks for Efficient Text Classification
+- blog:https://blog.csdn.net/Kaiyuan_sjtu/article/details/84404290
