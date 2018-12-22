@@ -16,6 +16,6 @@ A Repository for one of NLP tasks---test classification, with different implemen
 4. RCNN
 - paper: Recurrent Convolutional Neural Networks for Text Classification
 - blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/84536256
-5.HAN
+5. HAN
 - paper: Hierarchical Attention Networks for Document Classification
 - blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/85065962
