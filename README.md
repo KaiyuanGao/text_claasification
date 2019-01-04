@@ -19,3 +19,6 @@ A Repository for one of NLP tasks---test classification, with different implemen
 5. HAN
 - paper: Hierarchical Attention Networks for Document Classification
 - blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/85065962
+6. CHAR-CNN
+- paper: Character-level Convolutional Networks for Text Classification
+- blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/85220516
