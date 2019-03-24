@@ -12,7 +12,7 @@ A Repository for one of NLP tasks---test classification, with different implemen
 - blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/84201084
 3. fastText
 - paper: Bag of Tricks for Efficient Text Classification
-- blog: ttps://blog.csdn.net/Kaiyuan_sjtu/article/details/84404290
+- blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/84404290
 4. RCNN
 - paper: Recurrent Convolutional Neural Networks for Text Classification
 - blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/84536256
@@ -21,4 +21,9 @@ A Repository for one of NLP tasks---test classification, with different implemen
 - blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/85065962
 6. CHAR-CNN
 - paper: Character-level Convolutional Networks for Text Classification
-- blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/85220516
+- blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/8522051o6  
+7.BERT  
+- paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  
+- repository: https://github.com/google-research/bert  
+- blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/88709580
+
