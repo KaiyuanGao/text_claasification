@@ -22,7 +22,7 @@ A Repository for one of NLP tasks---test classification, with different implemen
 6. CHAR-CNN
 - paper: Character-level Convolutional Networks for Text Classification
 - blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/8522051o6  
-7.BERT  
+7. BERT  
 - paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  
 - repository: https://github.com/google-research/bert  
 - blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/88709580
