@@ -1,12 +1,12 @@
 # text_claasification
-A Repository for one of NLP tasks---test classification, with different implementations.
+A Repository for one of NLP tasks---text classification, with different implementations.
 ## Requirements
 - Python 3
 - Tensorflow 1.11
 ## Methods
 1. CNN 
 - papaer: Convolutional Neural Networks for Sentence Classification
-- blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/83956854
+- blog: [【NLP保姆级教程】手把手带你CNN文本分类(附代码)](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=100000370&idx=1&sn=7448bbc1060f70a9098b74fe7698e6af&chksm=17aee4a020d96db667da15dc643bd1a1c30c26f9fb98087e5479d8efadb0a97338080d499317#rd)
 2. RNN
 - paper: Recurrent Neural Network for Text Classification with Multi-Task Learning
 - blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/84201084
