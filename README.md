@@ -25,5 +25,5 @@ A Repository for one of NLP tasks---text classification, with different implemen
 7. BERT  
 - paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  
 - repository: https://github.com/google-research/bert  
-- blog: https://blog.csdn.net/Kaiyuan_sjtu/article/details/88709580
+- blog: 
 
